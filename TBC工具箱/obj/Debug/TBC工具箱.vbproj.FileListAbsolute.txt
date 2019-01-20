@@ -1,0 +1,25 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\TBC工具箱\bin\Debug\TBC工具箱.exe.config
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\TBC工具箱.exe.config
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\TBC工具箱.exe
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\TBC工具箱.pdb
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\TBC工具箱.xml
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\ControlzEx.dll
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\MahApps.Metro.dll
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\System.Windows.Interactivity.dll
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\ControlzEx.pdb
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\MahApps.Metro.pdb
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\MahApps.Metro.xml
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.vbprojResolveAssemblyReference.cache
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\MainWindow.baml
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\Application.baml
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\MainWindow.g.vb
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\Application.g.vb
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱_MarkupCompile.cache
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.g.resources
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.Resources.resources
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.vbproj.GenerateResource.Cache
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.exe
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.xml
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.pdb
+E:\编程\TBC工具箱\TBC工具箱\bin\Debug\DevExpress.Images.v16.2.dll
+E:\编程\TBC工具箱\TBC工具箱\obj\Debug\TBC工具箱.exe.licenses
